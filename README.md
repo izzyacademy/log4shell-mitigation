@@ -62,7 +62,7 @@ log4j2.formatMsgNoLookups=true
 
 ```
 
-3. You can also delete the JndiLookup class from the classpath:
+3. You can also delete the JndiLookup class from the classpath for the affected versions:
 
 ```bash
 
@@ -70,7 +70,7 @@ zip -q -d log4j-core-*.jar org/apache/logging/log4j/core/lookup/JndiLookup.class
 
 ```
 
-This command will remote the class from the log4j-core*.jar file 
+This command will remote the class from the log4j-core*.jar file for the affected versions
 
 Stay tuned for additional updates.
 
