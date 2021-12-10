@@ -12,7 +12,9 @@ It is rated 10 out of 10 on the Common Vulnerability Scoring System (CVSS) scale
 
 ## When it was Discovered?
 
-The vulnerability was discovered by Chen Zhaojun of Alibaba Cloud Security Team and was disclosed publicly via the project’s GitHub on December 9, 2021
+The vulnerability was reported by Alibaba Cloud's security team to Apache on November 24 and was discovered by Chen Zhaojun of Alibaba Cloud Security Team
+
+It was then [disclosed publicly](https://twitter.com/P0rZ9/status/1468949890571337731) via the log4j project’s [GitHub](https://github.com/apache/logging-log4j2/pull/608) on December 9, 2021
 
 ## How Does it Work?
 
@@ -77,7 +79,7 @@ If you have any questions, please feel free to reach out.
 Thanks
 
 ## References
-https://logging.apache.org/log4j/2.x/security.html
-https://nvd.nist.gov/vuln/detail/CVE-2021-44228
-https://logging.apache.org/log4j/2.x/download.html
+- https://logging.apache.org/log4j/2.x/security.html
+- https://nvd.nist.gov/vuln/detail/CVE-2021-44228
+- https://logging.apache.org/log4j/2.x/download.html
 
