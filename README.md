@@ -52,7 +52,7 @@ Other open source projects outside the ASF such as Redis, ElasticSearch and Logs
 
 ## What you need to do
 
-1. If you are using the affected versions, immediately upgrade to log4j v2.15
+1. If you are using the affected versions, immediately upgrade to log4j v2.15 for the [log4j-core](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core/2.15.0) and [log4j-api](https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api/2.15.0) dependencies
 
 2. If you are using log4j v2.10 or above, and are currently unable to immediately upgrade, then change the system property:
 
@@ -82,4 +82,6 @@ Thanks
 - https://logging.apache.org/log4j/2.x/security.html
 - https://nvd.nist.gov/vuln/detail/CVE-2021-44228
 - https://logging.apache.org/log4j/2.x/download.html
+- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core/2.15.0
+- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api/2.15.0
 
