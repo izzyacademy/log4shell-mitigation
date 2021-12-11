@@ -1,5 +1,11 @@
 ## Details and Mitigation Strategy for log4j2 RCE Vulnerability
 
+[![Log4Shell Log4j Exploit](log4shell-log4j-exploit.png)](https://youtu.be/jqWdwTeGRK0)
+
+Visit this Youtube video for additional details.
+
+https://youtu.be/jqWdwTeGRK0
+
 This is a quick post on the mitigation for CVE-2021-44228 Security Vulnerability aka Log4Shell and LogJam found in log4j2
 
 ## What It Is
