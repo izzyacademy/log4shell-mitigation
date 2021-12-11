@@ -8,6 +8,11 @@ https://youtu.be/jqWdwTeGRK0
 
 This is a quick post on the mitigation for CVE-2021-44228 Security Vulnerability aka Log4Shell and LogJam found in log4j2
 
+## Disclaimer
+All the information and accompanying code samples and examples are provided for educational and informational purposes only on your own systems.
+
+Please proceed with caution and do so at your own risk.
+
 ## What It Is
 
 It is a Zero-day exploit that is in the form of an RCE (remote code execution) that is present in certain versions of the popular java logging framework log4j2
